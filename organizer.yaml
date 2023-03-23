@@ -8,8 +8,6 @@ repositories:
     dependency_security:
       alerts: true
       automatic_fixes: true
-  production:
-    extends: default
     branches:
       dev:
         default: true
