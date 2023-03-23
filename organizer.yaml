@@ -15,6 +15,7 @@ repositories:
         required_status_checks:
           require_review: true
         required_approving_review_count: 1
+        required_pull_request_reviews: true
       main:
         enforce_admins: true
         required_status_checks:
@@ -22,6 +23,7 @@ repositories:
           strict: true
         required_approving_review_count: 1
         dismiss_stale_reviews: false
+        required_pull_request_reviews: true
 
 labels_clean: true
 
