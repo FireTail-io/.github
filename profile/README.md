@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-Welcome to FireTail's organization on GitHub. FireTail enables you to solve all the most critical problems facing APIs today with a hybrid approach, bringing together cloud, application and code with full blocking capabilities to solve the root causes of API data breaches - flaws at the application and business logic layer in authentication, authorization and data handling.
+Welcome to FireTail's organization on GitHub. FireTail enables you to solve all the most critical problems facing cybersecurity today with a hybrid approach, bringing together cloud, application and code with full blocking capabilities to solve the root causes of AI and API data breaches - flaws at the application and business logic layer in authentication, authorization, data handling, and more.
 
 ## FireTail Code Libraries
 
@@ -19,6 +19,14 @@ Using FireTail's SaaS platform and incorporating our code libraries into your sy
 Whether your APIs are hosted on-prem or in the cloud, our platform brings together the logs to provide a unified view and invaluable security insights. 
 
 * <b> API Inventory</b>: With FireTail's API Inventory, you can maintain visibility and control over your APIs, prevent security breaches and unauthorized access attempts. FireTail offers advanced logging and event management capabilities, which allow organizations to monitor API activity and detect any suspicious behavior in real-time. From Library deployments to API Gateways and other integrations, our platform provides a unified view of all your APIs in a single, intuitive interface
+
+* <b> Shadow and Rogue AI</b>: FireTail continuously discovers and monitors AI integrations, providing full visibility into your AI landscape.
+
+* <b> Compliance Risks</b>: FireTail continuously monitors AI inputs and outputs to detect sensitive data exposure and mitigate compliance violations under GDPR, CCPA and other regulatory frameworks.
+
+* <b> Real-time Attacks</b>: FireTail detects threats such as prompt injection and improper output handling in real time allowing you to react quickly. and minimise the impacts of attacks.
+
+* <b> Evolving AI Threats</b>: As AI evolves, so do the risks. FireTail helps you to quickly identify vulnerabilities and misconfigurations across all of your AI initiatives.
 
 To see how FireTail can help you protect your APIs, visit the [FireTail website][1] to book a demo or start a free trial.
 
